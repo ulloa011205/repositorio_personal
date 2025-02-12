@@ -16,6 +16,7 @@ print(multi)
 print(resi)
 print(exponecial)
 print(divi_baja)
+print( " estas son todas las operaciones que se pueden realizar")
 
 
 
