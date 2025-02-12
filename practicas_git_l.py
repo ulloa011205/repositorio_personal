@@ -1,5 +1,6 @@
 print ("klk")
 a=3
 b=5
-c=(a+b)
-
+suma=(a+b)
+resta(a-b)
+divi(a/b)
