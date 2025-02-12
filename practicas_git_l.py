@@ -8,3 +8,14 @@ multi=(a*b)
 resi=(a%b)
 exponecial=(a**b)
 divi_baja=(a//b)
+
+print(suma)
+print(resta)
+print(divi)
+print(multi)
+print(resi)
+print(exponecial)
+print(divi_baja)
+
+
+
