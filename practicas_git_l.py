@@ -1,28 +1,10 @@
-print ("klk")
-a=3
-b=5
-suma=(a+b)
-resta=(a-b)
-divi=(a/b)
-multi=(a*b)
-resi=(a%b)
-exponecial=(a**b)
-divi_baja=(a//b)
 
-print(suma)
-print(resta)
-print(divi)
-print(multi)
-print(resi)
-print(exponecial)
-print(divi_baja)
-print( " estas son todas las operaciones que se pueden realizar")
-
-#Uso de input
-nombres=input('escribe tu nombre ')
-apellidos=input('escribe tus apellidos ')
-edad=input('escribe tu edad ')
-telefono=input('escribe tu numero telefonico ')
-fecha_nac=input('escribe tu fecha de nacimiento')
-print(f'sus nombres son:{nombres} sus  apellidos son:{apellidos}, tiene {edad} años\
-, su numero de telefono es:{telefono} y nacio en:{fecha_nac} . ')
+nombre=input('ingresar primer nombre ')
+nombre_1=input('ingresar segundo nombre ')
+apellido_1=input('ingresar primer apellido ')
+apellido_2=input('ingresar segundo apellido ')
+nombre=nombre.capitalize()
+nombre_1=nombre_1.capitalize()
+apellido_1=apellido_1.capitalize()
+apellido_2=apellido_2.capitalize()
+print(f'Mi nombre es:{nombre} {nombre_1} {apellido_1} {apellido_2}')
