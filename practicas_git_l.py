@@ -18,5 +18,11 @@ print(exponecial)
 print(divi_baja)
 print( " estas son todas las operaciones que se pueden realizar")
 
-
-
+#Uso de input
+nombres=input('escribe tu nombre ')
+apellidos=input('escribe tus apellidos ')
+edad=input('escribe tu edad ')
+telefono=input('escribe tu numero telefonico ')
+fecha_nac=input('escribe tu fecha de nacimiento')
+print(f'sus nombres son:{nombres} sus  apellidos son:{apellidos}, tiene {edad} años\
+, su numero de telefono es:{telefono} y nacio en:{fecha_nac} . ')
