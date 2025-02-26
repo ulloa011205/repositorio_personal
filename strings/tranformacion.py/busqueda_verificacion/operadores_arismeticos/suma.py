@@ -1,0 +1,5 @@
+#suma(+)
+num1=int(str(input('ingresa primer numero:')))
+num2=int(str(input('ingresa segundo numero:')))
+total=(num1+num1)
+print(f'el resultado es:{total}')

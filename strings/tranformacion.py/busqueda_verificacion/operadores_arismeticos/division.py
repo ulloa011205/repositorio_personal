@@ -1,0 +1,5 @@
+#division(/)
+a=int(str(input('ingrsar un numero:')))
+b=int(str(input('ingrsar un numero:')))
+c=(a/b)
+print(f'la division es:{c}')

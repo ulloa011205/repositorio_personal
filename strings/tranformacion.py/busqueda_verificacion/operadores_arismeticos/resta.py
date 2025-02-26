@@ -1,0 +1,5 @@
+#resta(-)
+a=int(str(input("ingresa el numero a restar:")))
+b=int(str(input("ingresa el numero a restar:")))
+c=(a-b)
+print(f'la resta es{c}')

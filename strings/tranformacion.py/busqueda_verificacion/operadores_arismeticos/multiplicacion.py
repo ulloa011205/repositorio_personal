@@ -1,0 +1,5 @@
+#multiplicacion(*)
+a=int(str(input('ingresar numero:')))
+b=int(str(input('ingresar numero:')))
+c=(a*b)
+print(f'la multiplicacion es:{c}')
