@@ -7,7 +7,4 @@ print(frutas)
 fruta="naranja,mango,sandia"
 fruta=fruta.split(',')
 print(fruta)
-# se agrega ('',#)sirve para separar las palabras segundo el numero de ellas
-colores='rojo azul amarillo rojo rosa'
-colores=colores.split(' ', 2)
-print(colores)
+
